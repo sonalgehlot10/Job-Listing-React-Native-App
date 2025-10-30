@@ -7,7 +7,7 @@
 
 ## Overview
 This project is a **React Native job search app** that allows users to browse and view job listings from a public API.  
-It was built as a hands-on learning project to understand how React Native works — including components, navigation, and API integration — while following a YouTube tutorial as a guide.
+It was built as a hands-on learning project to understand how React Native works  including components, navigation, and API integration  while following a YouTube tutorial as a guide.
 
 The app demonstrates how to fetch live data, handle asynchronous calls, and design clean mobile UI layouts using React Native and Expo.
 
@@ -16,7 +16,7 @@ The app demonstrates how to fetch live data, handle asynchronous calls, and desi
 ## Inspiration
 I started this project to **learn React Native** and get comfortable with the workflow of building mobile apps using JavaScript.  
 Following a tutorial helped me understand core concepts like component structure, props, hooks, navigation, and state management.  
-The job listing theme provided a simple yet meaningful context to practice **data fetching, dynamic rendering, and styling** — all essential skills for mobile development.
+The job listing theme provided a simple yet meaningful context to practice **data fetching, dynamic rendering, and styling**  all essential skills for mobile development.
 
 ---
 
@@ -46,7 +46,5 @@ The job listing theme provided a simple yet meaningful context to practice **dat
 - Debugging layout issues on mobile devices and handling asynchronous behavior  
 
 This project strengthened my understanding of **React fundamentals** and helped me see how those skills translate from web to mobile development.
-
-
 
 
